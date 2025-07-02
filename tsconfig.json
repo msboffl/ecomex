@@ -8,6 +8,12 @@
     },
     {
       "path": "./micros/auth"
+    },
+    {
+      "path": "./micros/gateway-e2e"
+    },
+    {
+      "path": "./micros/gateway"
     }
   ]
 }
