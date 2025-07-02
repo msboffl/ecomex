@@ -2,6 +2,7 @@
   "name": "@ecomex/auth",
   "version": "0.0.1",
   "private": true,
+  "license": "MIT",
   "nx": {
     "targets": {
       "build": {
