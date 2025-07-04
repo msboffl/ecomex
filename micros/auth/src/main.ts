@@ -29,5 +29,6 @@ const startAuthServer = () => {
   }
 };
 
+
 // Start the server
 startAuthServer();

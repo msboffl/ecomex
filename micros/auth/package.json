@@ -68,5 +68,8 @@
         }
       }
     }
+  },
+  "dependencies": {
+    "@prisma/client": "6.11.1"
   }
 }
